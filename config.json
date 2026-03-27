@@ -1,0 +1,27 @@
+{
+  "packname": "Tom Sticker Pack",
+  "author": "Tom-Bot",
+  "botName": "ᴛᴏᴍ ᴘʀᴏ ʙᴏᴛ",
+  "botOwner": "ᴛᴏᴍ x",
+  "ownerNumber": "8801714821271",
+  "botNumber": "8801714821271",
+  "autoUpdate": true,
+  "timeZone": "Asia/Dhaka",
+  "botUid": "tom_pro_01",
+  "PREFIX": "/",
+  "admin": [
+    "8801714821271"
+  ],
+  "helpPic": "https://i.postimg.cc/vT8HNbdD/1000086497.png",
+  "welPic": "https://i.postimg.cc/vT8HNbdD/1000086497.png",
+  "PORT": "8080",
+  "delay": 100,
+  "msg": {
+    "modAdmin": true,
+    "ban": false
+  },
+  "imgurKey": "1e87dfc28df0bac",
+  "giphyApiKey": "qnl7ssQChTdPjsKta2Ax2LMaGXz303tq",
+  "commandMode": "public",
+  "description": "Tom's bot for managing groups and automating tasks."
+}
