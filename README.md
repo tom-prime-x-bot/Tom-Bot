@@ -1,5 +1,5 @@
-#### HERMIT MD WHATSAPP BOT
-Hermit-md - Simple whatsapp Multi Device whatsapp bot.
+#### TOM PRIME X WHATSAPP BOT
+Tom-prime-x - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
