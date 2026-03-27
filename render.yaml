@@ -1,0 +1,39 @@
+services:
+  - type: web
+    name: tom-official-bot
+    repo: https://github.com/A-d-i-t-h-y-a-n/hermit-bot.git
+    branch: main
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: RENDER_NAME
+        value: "tom-official-bot"
+      - key: RENDER_API
+        sync: false
+        required: true
+      - key: SESSION_ID
+        sync: false
+        required: true
+      - key: DATABASE_URL
+        sync: false
+        required: true
+      - key: PREFIX
+        value: "."
+      - key: SUDO
+        value: "8801714821271"
+      - key: MODE
+        value: "public"
+      - key: LOG_MSG
+        value: "false"
+      - key: AUTO_STATUS_VIEW
+        value: "false"
+      - key: READ_MSG
+        value: "false"
+      - key: ALWAYS_ONLINE
+        value: "false"
+      - key: START_MSG
+        value: "true"
+      - key: PORT
+        value: "3000"
