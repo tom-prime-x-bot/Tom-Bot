@@ -59,8 +59,8 @@ Tom-prime-x - Simple whatsapp Multi Device whatsapp bot.
 2. Installation
    ```
    npm i -global pm2
-   git clone https://github.com/A-d-i-t-h-y-a-n/hermit-bot.git
-   cd hermit-bot
+   git clone https://github.com/sa1986zihad71-cmd/Tom-Bot
+   cd Tom-bot
    npm install
    ```
 3. Configuration
